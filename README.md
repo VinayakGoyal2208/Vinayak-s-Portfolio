@@ -27,7 +27,7 @@ The portfolio includes the following sections:
 
 ---
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8bc74cea-b01a-44d7-aa18-7711df8cee06" />
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/33222fd4-ed02-49ff-95d4-5d9eef6e09d7" />
 
 
 ## 📂 How to Use  
