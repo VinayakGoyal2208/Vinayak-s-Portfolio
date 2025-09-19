@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website — a showcase of my skills, projects, and achievements as a web developer and programmer.  
 
-🔗 **Live Demo:** (https://vinayakgoyal2208.github.io/Vinayak-s-Portfolio/)
+🔗 **Live Demo:** [Click Here](https://vinayakgoyal2208.github.io/Vinayak-s-Portfolio)
 
 ---
 
